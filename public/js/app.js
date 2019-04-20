@@ -1,5 +1,3 @@
-console.log('Client side js file is loaded')
-
 const weatherForm = document.querySelector('form')
 const errorMessage = document.getElementById('error-message')
 const message = document.getElementById('message')
